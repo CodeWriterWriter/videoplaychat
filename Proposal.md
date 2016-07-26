@@ -31,7 +31,7 @@ The flow of how the user would use the program is as follows:
   * Messages sent through the chat window will be sent to the other party and appear in the chat log for both parties.
 
 #Design
- [image](image)
+ ![image][image]
 
 #Tools
 The tools I intend to use for the development of this project are as follows:
@@ -39,7 +39,7 @@ The tools I intend to use for the development of this project are as follows:
   * Electron: Electron will be the app the program lives in and will allow it to exist as a standalone program.
 
   * WebRTC: Webrtc will be used for connecting the two instances and transmitting data between them.
-  
+
   * VideoJS: VideoJs will be used for video playback in the electron window.
 
  [image] : ./images/Untitled.png
